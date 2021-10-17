@@ -1,1 +1,1 @@
-The project aim is to build a basic recipe website using what I've learnt about HTML so far, including building pages with headers, lists, links and images.
+The project aim is to build a basic recipe website using what I've learnt about HTML so far, including building pages with headers, lists, links and images. There are three recipes on this mock webite.
